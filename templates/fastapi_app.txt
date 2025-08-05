@@ -1,0 +1,5 @@
+
+---
+
+### File 9: `templates/fastapi_app.txt`
+**Description**: New template for FastAPI app generation.
