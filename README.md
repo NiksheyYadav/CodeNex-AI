@@ -1,6 +1,6 @@
 # AI Code Agent
 
-A CLI tool powered by Nemotron-4 340B Ultra to generate and manage code projects from natural language prompts.
+A CLI tool powered by Mistral-7B-v0.1 to generate and manage code projects from natural language prompts.
 
 ## Setup
 
@@ -53,7 +53,7 @@ agent/
 MIT
 
 ## Author
-
+https://github.com/NiksheyYadav
 [Your Name](https://github.com/yourusername)
 
 ## Version
