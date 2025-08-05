@@ -1,0 +1,50 @@
+This is a test output
+Python version: 3.11.9 (tags/v3.11.9:de54cf5, Apr  2 2024, 10:12:12) [MSC v.1938 64 bit (AMD64)]
+Current working directory: C:\z_projects\ai-code-agent
+Environment variables:
+ALLUSERSPROFILE: C:\ProgramData
+APPDATA: C:\Users\IQBAL SINGH\AppData\Roaming
+CHOCOLATEYINSTALL: C:\ProgramData\chocolatey
+CHOCOLATEYLASTPATHUPDATE: 133762177686052298
+COMMONPROGRAMFILES: C:\Program Files\Common Files
+COMMONPROGRAMFILES(X86): C:\Program Files (x86)\Common Files
+COMMONPROGRAMW6432: C:\Program Files\Common Files
+COMPUTERNAME: DESKTOP-A2DH9BT
+COMSPEC: C:\WINDOWS\system32\cmd.exe
+DRIVERDATA: C:\Windows\System32\Drivers\DriverData
+EFC_21180_1592913036: 1
+HOMEDRIVE: C:
+HOMEPATH: \Users\IQBAL SINGH
+IGCCSVC_DB: AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAlRCdEZmgDUKaBLKscIXIRQQAAAACAAAAAAAQZgAAAAEAACAAAAD3T8twWBlxhsRVYFg0Gh2oUQhokNiYQrDxfQVzhQ7mqAAAAAAOgAAAAAIAACAAAACZN5rHhiCB+Dk7UyFlwffdlD6GBbQoD0aa+YC3dzvmvmAAAABXIpIpEIdmgXvTNa2+/fJ3jzFgzByGkm7MkFQBBWbjvfiRyWtcPx2QXZ3I1+GoeNwojrsSGOkpUnRdjJyXdCN9IFrWownYUfqBIDzWYsnTcaLPxFOvATeiCk5kSe5eOipAAAAAhDzcG0Ev7m3m1cmSd+38ZuyFu8g9Vw7eSXGJGGlyuGvWbkkxQMX6RkLT2AnX4Z4imlNtj/7fDTLqxVZyxtJngQ==
+LOCALAPPDATA: C:\Users\IQBAL SINGH\AppData\Local
+LOGONSERVER: \\DESKTOP-A2DH9BT
+NUMBER_OF_PROCESSORS: 16
+ONEDRIVE: C:\Users\IQBAL SINGH\OneDrive
+OS: Windows_NT
+PATH: C:\Program Files\Common Files\Oracle\Java\javapath;C:\ProgramData\Oracle\Java\javapath;C:\Program Files\Microsoft\jdk-11.0.16.101-hotspot\bin;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\dotnet\;C:\Program Files\Microsoft SQL Server\150\Tools\Binn\;C:\Program Files\Git\cmd;C:\Program Files\Java\jdk-22\bin;C:\Program Files\nodejs\;C:\ProgramData\chocolatey\bin;C:\composer;C:\Program Files\Docker\Docker\resources\bin;C:\Users\IQBAL SINGH\AppData\Local\Microsoft\WindowsApps;C:\Users\IQBAL SINGH\AppData\Local\GitHubDesktop\bin;C:\msys64\mingw64\bin;C:\MinGW\mingw32\bin;C:\Users\IQBAL SINGH\AppData\Local\Programs\Microsoft VS Code\bin;C:\Users\IQBAL SINGH\AppData\Local\Microsoft\WinGet\Links;C:\Users\IQBAL SINGH\AppData\Roaming\npm;C:\php-8.2.26;C:\Users\IQBAL SINGH\AppData\Roaming\Composer\vendor\bin;C:\Program Files\JetBrains\PyCharm 2024.3.4\bin;;C:\Users\IQBAL SINGH\AppData\Local\Programs\Ollama;C:\Users\IQBAL SINGH\AppData\Local\Programs\Windsurf\bin
+PATHEXT: .COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC
+PROCESSOR_ARCHITECTURE: AMD64
+PROCESSOR_IDENTIFIER: Intel64 Family 6 Model 154 Stepping 3, GenuineIntel
+PROCESSOR_LEVEL: 6
+PROCESSOR_REVISION: 9a03
+PROGRAMDATA: C:\ProgramData
+PROGRAMFILES: C:\Program Files
+PROGRAMFILES(X86): C:\Program Files (x86)
+PROGRAMW6432: C:\Program Files
+PROMPT: $P$G
+PSMODULEPATH: C:\Program Files\WindowsPowerShell\Modules;C:\WINDOWS\system32\WindowsPowerShell\v1.0\Modules
+PUBLIC: C:\Users\Public
+PYCHARM: C:\Program Files\JetBrains\PyCharm 2024.3.4\bin;
+SESSIONNAME: Console
+SYSTEMDRIVE: C:
+SYSTEMROOT: C:\WINDOWS
+TEMP: C:\Users\IQBALS~1\AppData\Local\Temp
+TMP: C:\Users\IQBALS~1\AppData\Local\Temp
+USERDOMAIN: DESKTOP-A2DH9BT
+USERDOMAIN_ROAMINGPROFILE: DESKTOP-A2DH9BT
+USERNAME: IQBAL SINGH
+USERPROFILE: C:\Users\IQBAL SINGH
+WINDIR: C:\WINDOWS
+ZES_ENABLE_SYSMAN: 1
+PYTHONUSERBASE: C:\Users\IQBAL SINGH\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages
+Press Enter to exit...^C
